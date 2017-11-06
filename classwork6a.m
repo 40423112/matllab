@@ -1,0 +1,1 @@
+fixed_point(@(x) exp(-x),0,0.001)
